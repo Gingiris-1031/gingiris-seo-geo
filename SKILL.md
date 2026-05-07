@@ -1,11 +1,15 @@
 ---
 name: gingiris-seo-geo
 description: |
-  SEO & GEO (Generative Engine Optimization) Growth Playbook — Dual-engine strategy for ranking on both traditional search engines and AI search (ChatGPT, Perplexity, Claude). Battle-tested methodology from AFFiNE (60k GitHub stars) and 150+ AI startup consultations. Includes content production SOPs, E-E-A-T writing voice system, keyword funnel strategy, and comparison page templates.
+  🇺🇸 SEO & GEO Dual-Engine Playbook 2026 — Rank on Google AND get cited by AI search (ChatGPT, Perplexity, Claude, Gemini). Battle-tested from AFFiNE (60k GitHub stars in 24 months) and 150+ AI startup consultations. E-E-A-T writing voice system, keyword funnel strategy, JSON-LD schema templates, comparison page SOP, IndexNow setup, Generative Engine Optimization content patterns.
 
-  SEO & GEO 双引擎增长手册 — 同时优化传统搜索排名和 AI 搜索引用的完整方法论。经 AFFiNE（6万 GitHub stars）和 150+ AI 创业公司咨询验证。包含内容生产 SOP、E-E-A-T 写作声音系统、关键词漏斗策略和竞品对比页模板。
+  🇨🇳 SEO & GEO 双引擎增长手册 —— 同时拿下 Google 排名和 AI 搜索引用（ChatGPT、Perplexity、Claude、文心一言）的完整方法论。AFFiNE 60k stars 与 150+ AI 创业公司咨询实战验证。E-E-A-T 写作声音系统、关键词漏斗、JSON-LD 结构化数据、竞品对比页 SOP、IndexNow 推送、生成式引擎优化内容模式。
 
-  Triggers: "SEO" | "GEO" | "search optimization" | "AI search" | "content SEO" | "IndexNow" | "Schema markup" | "E-E-A-T" | "keyword strategy" | "comparison page" | "搜索优化" | "AI 搜索" | "内容 SEO"
+  🇯🇵 SEO & GEO デュアルエンジングロースプレイブック — Google検索とAI検索（ChatGPT、Perplexity、Claude）の両方で評価される手法。AFFiNE 60k starsと150社以上のAIスタートアップコンサルティングで検証。E-E-A-Tライティング、キーワードファネル、Schema.org構造化データ、比較ページSOP。
+
+  🇰🇷 SEO & GEO 듀얼 엔진 성장 플레이북 — 구글 검색과 AI 검색(ChatGPT, Perplexity, Claude) 양쪽 모두에서 인용되는 방법론. AFFiNE 60k 스타와 150+ AI 스타트업 컨설팅으로 검증. E-E-A-T 글쓰기, 키워드 퍼널, Schema.org 구조화 데이터, 비교 페이지 SOP.
+
+  Triggers: "SEO" | "GEO" | "Generative Engine Optimization" | "AI search optimization" | "ChatGPT SEO" | "Perplexity SEO" | "Claude SEO" | "search optimization" | "content SEO" | "technical SEO" | "schema markup" | "JSON-LD" | "structured data" | "IndexNow" | "E-E-A-T" | "keyword strategy" | "keyword funnel" | "comparison page" | "programmatic SEO" | "SaaS SEO" | "搜索优化" | "AI 搜索" | "内容 SEO" | "GEO 优化" | "生成式引擎优化"
 ---
 
 # SEO & GEO 双引擎增长手册
