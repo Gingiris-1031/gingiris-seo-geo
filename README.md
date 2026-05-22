@@ -1,3 +1,31 @@
+---
+license: mit
+language:
+- en
+- zh
+- ja
+- ko
+pretty_name: "Gingiris SEO & GEO Dual-Engine Growth Playbook 2026 — Google + AI Search Optimization"
+tags:
+- seo
+- geo
+- generative-engine-optimization
+- ai-search-optimization
+- content-seo
+- technical-seo
+- e-e-a-t
+- json-ld
+- schema-markup
+- indexnow
+- keyword-strategy
+- comparison-pages
+- saas-seo
+- startup-marketing
+- ai-growth
+size_categories:
+- n<1K
+---
+
 <div align="center">
 
 <img src="assets/logo.png" alt="Gingiris Logo" width="120" />
@@ -288,3 +316,20 @@ All six at [skills.sh/Gingiris](https://skills.sh/Gingiris).
   "keywords": "SEO, GEO, Generative Engine Optimization, AI search optimization, ChatGPT SEO, Perplexity SEO, JSON-LD schema, E-E-A-T, keyword strategy, comparison page, programmatic SEO, IndexNow, dual engine SEO"
 }
 </script>
+
+---
+
+## 🗂️ See Also — Gingiris Playbook Series on HuggingFace
+
+| Playbook | Focus | HuggingFace |
+|:---------|:------|:------------|
+| **gingiris-growth-finder** | 🧭 Meta-router: diagnoses your situation, picks the right playbook | [Gingiris/gingiris-growth-finder](https://huggingface.co/datasets/Gingiris/gingiris-growth-finder) |
+| **gingiris-launch** | 🚀 Product Hunt launch, KOL outreach, UGC growth | [Gingiris/gingiris-launch](https://huggingface.co/datasets/Gingiris/gingiris-launch) |
+| **gingiris-opensource** | ⭐ GitHub stars, HN, OSS go-to-market | [Gingiris/gingiris-opensource](https://huggingface.co/datasets/Gingiris/gingiris-opensource) |
+| **gingiris-b2b-growth** | 📈 B2B SaaS PLG/SLG, PMF to $10M ARR | [Gingiris/gingiris-b2b-growth](https://huggingface.co/datasets/Gingiris/gingiris-b2b-growth) |
+| **gingiris-aso-growth** | 📱 ASO, mobile cold start, UGC matrix | [Gingiris/gingiris-aso-growth](https://huggingface.co/datasets/Gingiris/gingiris-aso-growth) |
+| **gingiris-user-interview** | 🎤 User interview framework (HeyGen 937 methodology) | [Gingiris/gingiris-user-interview](https://huggingface.co/datasets/Gingiris/gingiris-user-interview) |
+| **gingiris-skills** | 🛠️ Full toolkit: 12 Claude Code skills bundled | [Gingiris/gingiris-skills](https://huggingface.co/datasets/Gingiris/gingiris-skills) |
+| **growth-tools** | 📚 Blog & tools hub | [Gingiris/growth-tools](https://huggingface.co/datasets/Gingiris/growth-tools) |
+
+All playbooks live at [gingiris.com](https://gingiris.com) and [skills.sh/Gingiris](https://skills.sh/Gingiris).
