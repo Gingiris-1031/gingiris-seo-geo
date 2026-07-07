@@ -106,7 +106,7 @@ clawhub install gingiris-seo-geo
 
 ## Use with AI Agents
 
-This playbook is available as a **ClawdHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
+This playbook is available as a **ClawHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
 
 ```bash
 clawhub install gingiris-seo-geo
